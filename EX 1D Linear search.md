@@ -15,8 +15,8 @@ To Write a python program to implement linear search on the given tuple
 ## Program:
 ```
 Program to implement a search function with parameter list name and the value to be searched using string values.
-Developed by: Karan A
-Register Number: 212223230099
+Developed by: ABHINESWAR REDDY K
+Register Number: 212223040084
 ```
 ```py
 def search(tuple1,x):
